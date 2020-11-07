@@ -1,0 +1,20 @@
+body{
+  background-color: #d9ecf2;
+}
+th{
+  background-color: #a6f6f1;
+}
+hr{
+  background-color: #d9ecf2;
+  border-style:none;
+  border-top-style: dotted;
+  border-width: 10px;
+  width: 6%;
+}
+h1,h3{
+  color: #3d7ea6;
+}
+
+/* img{
+  background-color: #1aa6b7;
+} */
